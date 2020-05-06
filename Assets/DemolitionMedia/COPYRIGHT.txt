@@ -1,0 +1,6 @@
+Demolition Media Hap for Unity - v0.9.6
+Copyright 2017-2019 Demolition Studios. All Rights Reserved.
+
+test_street_Hap.mov test video file copyright belongs to James Medcraft (http://jamesmedcraft.com/)
+
+This software uses code of FFmpeg (http://ffmpeg.org) licensed under the LGPLv2.1 (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) and its source can be downloaded from https://github.com/DemolitionStudios/FFmpeg
